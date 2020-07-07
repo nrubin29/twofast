@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Base32",
+        "repositoryURL": "https://github.com/norio-nomura/Base32",
+        "state": {
+          "branch": null,
+          "revision": "69fc95dd2e4229a2fd82e14d9358c23b0fd8cf74",
+          "version": "0.8.0"
+        }
+      },
+      {
+        "package": "CodeScanner",
+        "repositoryURL": "https://github.com/twostraws/CodeScanner",
+        "state": {
+          "branch": null,
+          "revision": "9d902dec616bd70b1a2a1b1e6d821c10c392ba9f",
+          "version": "1.0.6"
+        }
+      },
+      {
+        "package": "OneTimePassword",
+        "repositoryURL": "https://github.com/nrubin29/OneTimePassword",
+        "state": {
+          "branch": null,
+          "revision": "b3c0a00702a012cff6e99319c2460ac33237caa9",
+          "version": "3.2.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
